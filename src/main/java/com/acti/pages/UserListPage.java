@@ -1,5 +1,7 @@
 package com.acti.pages;
 
-public class UserListPage {
+import com.acti.base.DriverScript;
+
+public class UserListPage extends DriverScript{
 
 }
