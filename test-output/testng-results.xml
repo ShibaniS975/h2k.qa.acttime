@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30319" started-at="2020-11-07T00:26:00Z" finished-at="2020-11-07T00:26:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30319" started-at="2020-11-07T00:26:00Z" finished-at="2020-11-07T00:26:30Z">
+      <class name="com.acti.testcase.TC01_LoginTest">
+        <test-method status="PASS" signature="preCondtion()[pri:0, instance:com.acti.testcase.TC01_LoginTest@1e88b3c]" name="preCondtion" is-config="true" duration-ms="13547" started-at="2020-11-06T18:26:00Z" finished-at="2020-11-06T18:26:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondtion -->
+        <test-method status="PASS" signature="testLoginFun()[pri:0, instance:com.acti.testcase.TC01_LoginTest@1e88b3c]" name="testLoginFun" duration-ms="3293" started-at="2020-11-06T18:26:13Z" finished-at="2020-11-06T18:26:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFun -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.acti.testcase.TC01_LoginTest@1e88b3c]" name="postCondition" is-config="true" duration-ms="101" started-at="2020-11-06T18:26:17Z" finished-at="2020-11-06T18:26:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondtion()[pri:0, instance:com.acti.testcase.TC01_LoginTest@1e88b3c]" name="preCondtion" is-config="true" duration-ms="13109" started-at="2020-11-06T18:26:17Z" finished-at="2020-11-06T18:26:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondtion -->
+        <test-method status="PASS" signature="testLogo()[pri:0, instance:com.acti.testcase.TC01_LoginTest@1e88b3c]" name="testLogo" duration-ms="116" started-at="2020-11-06T18:26:30Z" finished-at="2020-11-06T18:26:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogo -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.acti.testcase.TC01_LoginTest@1e88b3c]" name="postCondition" is-config="true" duration-ms="101" started-at="2020-11-06T18:26:30Z" finished-at="2020-11-06T18:26:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti.testcase.TC01_LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
